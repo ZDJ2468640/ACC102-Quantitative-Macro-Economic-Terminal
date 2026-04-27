@@ -57,8 +57,8 @@ These metrics are used to compare three dimensions of economic performance:
 
 ## 6. Project Links
 
-- **Live Tool:** [(https://acc102-macro-analysis-ruqma5q2bpwvk2exwxesjp.streamlit.app/)]
-- **GitHub Repository:** [(https://github.com/ZDJ020314/ACC102-Macro-Analysis)]
+- **Live Tool:** [(https://acc102-quantitative-macro-economic-terminal-vzyzabn2fhl27l3tjd.streamlit.app/))]
+- **GitHub Repository:** [(https://github.com/ZDJ2468640/ACC102-Quantitative-Macro-Economic-Terminal.git)]
 - **Demo Video:** [(https://www.bilibili.com/video/BV17rorBREnX/?spm_id_from=333.1387.homepage.video_card.click&vd_source=82929e68059eea32b530ffb601bc64fe)]
 
 ## 7. Limitations & Next Steps
